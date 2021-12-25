@@ -1,4 +1,4 @@
 # Recommendation-Systems
 
 
-Built a recommender system by using cosine similarities score.
+Built a recommendation system by using cosine similarities score.
